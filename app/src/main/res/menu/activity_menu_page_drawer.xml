@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/face_profile"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_credits"
+            android:icon="@drawable/coin"
+            android:title="Credits" />
+        <item
+            android:id="@+id/nav_job_predictions"
+            android:icon="@drawable/job_list"
+            android:title="Job Predictions" />
+        <item
+            android:id="@+id/nav_admirers"
+            android:icon="@drawable/forum"
+            android:title="Secret Admirers" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>

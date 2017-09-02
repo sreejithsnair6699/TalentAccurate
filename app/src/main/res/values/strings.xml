@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Talent Accurate</string>
+    <string name="title_activity_menu_page">Profile</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="credits_details">Credits can be used to get tips/insider information from experienced
+        candidates/experts/manager in IT industry in your region.</string>
+
+    <string name="credit_usage">Your credits can be used to get some tips from our experts and coaches how has been successful in the industry.\n\nYou can book 30 minutes session with our experts and ask them any technical information
+    you want to know. For each 30 minutes session, your credits will be deducted by 25.</string>
+
+    <string name="credits_usage"><u>Click to know <b>How to use your Credits!</b> </u></string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="general_first">AngularJs is 21% above the ReactJs in Chennai market.
+        However both are in high demand comparing other front end programming.</string>
+
+    <string name="general_second">Java still tops the list in Chennai and Hyderabad requirements.
+        However employers are not only looking for Java, but also any framework related to Java (like Spring REST).</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
